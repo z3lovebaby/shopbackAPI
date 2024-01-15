@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopbackAPI", "shopbackAPI\shopbackAPI.csproj", "{656FE97F-77F3-4E5F-BD04-9F826DEB3C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656FE97F-77F3-4E5F-BD04-9F826DEB3C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656FE97F-77F3-4E5F-BD04-9F826DEB3C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656FE97F-77F3-4E5F-BD04-9F826DEB3C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656FE97F-77F3-4E5F-BD04-9F826DEB3C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6B038F-B401-46E0-AC4D-4349B492D061}
+	EndGlobalSection
+EndGlobal
